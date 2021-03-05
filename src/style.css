@@ -313,70 +313,11 @@ html{
 	width: 100%;
 }
 
-.contact {
-	height:750px;
-	padding-top: 100px;
-	background-image: url(../img/contact_bg.jpg);
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: cover;
-	background-position: top center;
-}
-
-.contact .title {
-	color:#ffffff;
-}
-
-.contact .form {
-	max-width: 600px;
-	margin:0 auto;
-	padding: 0 30px;
-	color:#ffffff;
-}
-
-.form input {
-	height: 40px;
-	width: 100%;
-	background-color: #ffffff;
-	border-radius: 5px;
-	border:0px;
-	padding: 12px;
-	resize: vertical;
-	color: #000000;
-	margin:7.5px 0;
-}
-
-.form textarea {
-	height: 200px;
-	width: 100%;
-	background-color: #ffffff;
-	border-radius: 5px;
-	border:0px;
-	padding: 12px;
-	resize: vertical;
-	color: #000000;
-	margin:7.5px 0;
-}
-
-input[type=submit] {
-  background-color: #ABD0CE;
-  color: white;
-  cursor: pointer;
-  width: 100px!important;
-  height: 48px;
-}
-
-input[type=submit]:hover {
-  background-color: #8ABCB8;
-}
-
-/*news---------------------------*/
- .img_news{
+.img_news{
 	width: 400px;
 	height: 246px;
 	margin-right:50%;
  }
-
 
 /*footer---------------------------*/
 footer {
@@ -435,3 +376,62 @@ footer p {
 	color: #ECECEC;
 	padding-left: 20%;
 }
+
+
+
+/*.contact {
+	height:750px;
+	padding-top: 100px;
+	background-image: url(../img/contact_bg.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: top center;
+}
+
+.contact .title {
+	color:#ffffff;
+}
+
+.contact .form {
+	max-width: 600px;
+	margin:0 auto;
+	padding: 0 30px;
+	color:#ffffff;
+}
+
+.form input {
+	height: 40px;
+	width: 100%;
+	background-color: #ffffff;
+	border-radius: 5px;
+	border:0px;
+	padding: 12px;
+	resize: vertical;
+	color: #000000;
+	margin:7.5px 0;
+}
+
+.form textarea {
+	height: 200px;
+	width: 100%;
+	background-color: #ffffff;
+	border-radius: 5px;
+	border:0px;
+	padding: 12px;
+	resize: vertical;
+	color: #000000;
+	margin:7.5px 0;
+}
+
+input[type=submit] {
+  background-color: #ABD0CE;
+  color: white;
+  cursor: pointer;
+  width: 100px!important;
+  height: 48px;
+}
+
+input[type=submit]:hover {
+  background-color: #8ABCB8;
+}*/
